@@ -1,1 +1,1 @@
-# Google-Play-App-and-users-review-eda-project
+# Google-Play-App-and-users-review-EDA-project
